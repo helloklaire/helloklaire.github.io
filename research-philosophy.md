@@ -1,0 +1,5 @@
+---
+title: Philosophy
+subtitle:
+tags:
+---
