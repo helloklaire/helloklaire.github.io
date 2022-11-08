@@ -8,7 +8,7 @@ Hello there! I'm Klaire. I'm an academic-slash-data enthusiast. I like figuring 
 
 ### My work.
 
-## Collaborators.
+### Collaborators.
 I stand in the shoulder of giants. I would not be where I currently am if not for my great colleagues. Here are some people I have collaborated / am collaborating with:
 
 
