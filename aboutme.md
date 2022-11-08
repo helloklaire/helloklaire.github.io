@@ -1,16 +1,20 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello there! I'm Klaire. I'm an academic-slash-data enthusiast. I like figuring out how humans and machine interact. I also want to understand the human condition, one dataset at a time.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### My work.
 
-What else do you need?
+## Collaborators.
+I stand in the shoulder of giants. I would not be where I currently am if not for my great colleagues. Here are some people I have collaborated / am collaborating with:
 
-### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### A bit personal.
+Yes, my parents actually chose to spell my name this way. 
+
+
+
+
